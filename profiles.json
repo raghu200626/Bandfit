@@ -1,0 +1,19 @@
+{
+  "Raghu": {
+    "weight": 58,
+    "height": 180,
+    "age": 20,
+    "gender": "male",
+    "gain": 40,
+    "weeks": 12,
+    "activity": 1.375,
+    "bmi": 17.901234567901234,
+    "bmr": 1610,
+    "tdee": 2213.75,
+    "targetCal": 2764,
+    "protein": 128,
+    "fat": 77,
+    "carbs": 390,
+    "surplusDailyKcal": 550
+  }
+}
