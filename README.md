@@ -141,45 +141,18 @@ The Express server exposes the following REST API endpoints:
 
 ---
 
-## 📤 How to Push This Project to GitHub
+## 🤝 Contributing
 
-Follow these steps in your terminal or command prompt inside the `bandfit` folder:
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page or submit a pull request.
 
-### Step 1: Initialize Git
-```bash
-git init
-```
-
-### Step 2: Add Files to Staging
-```bash
-git add .
-```
-
-### Step 3: Create the Initial Commit
-```bash
-git commit -m "Initial commit: BandFit web application"
-```
-
-### Step 4: Set the Default Branch to `main`
-```bash
-git branch -M main
-```
-
-### Step 5: Link to Your GitHub Repository
-Create a new repository on [GitHub](https://github.com/new) (do **not** check "Add a README file" since we already have one). Then run:
-```bash
-git remote add origin https://github.com/<your-username>/<your-repo-name>.git
-```
-*(Replace `<your-username>` and `<your-repo-name>` with your actual GitHub username and repository name).*
-
-### Step 6: Push to GitHub
-```bash
-git push -u origin main
-```
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ---
 
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
